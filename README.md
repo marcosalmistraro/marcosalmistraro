@@ -17,6 +17,7 @@ I build applied AI systems, from knowledge graphs and LLM agents to geospatial M
 | **GeoIntel RAG** | RAG over the 2023 Turkey-Syria earthquake corpus (FAISS, ShakeMap, LLMs) | [Live app](https://geointelrag.streamlit.app) |
 | **SensorFlow** | Anomaly detection on NASA SMAP telemetry (LSTM Autoencoder + Isolation Forest) | [Live app](https://sensorflow.streamlit.app) |
 | **Water Contamination Intelligence** | Natural-language queries over a 3.1M-triple EU water knowledge graph | [Live app](https://watercontaminationintelligence.streamlit.app) |
+| **Marketing Collateral Generator** | Generates tailored B2B marketing articles from company PDFs (FastAPI, ChromaDB, Groq) | [Live app](https://autogenmarketing.streamlit.app/) |
 | **[Genome Alignment](https://github.com/marcosalmistraro/genome_alignment)** | Java genome alignment program with user access control and back-ups | n/a |
 
 ## 🛠️ Tech
