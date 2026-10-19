@@ -1,8 +1,8 @@
-# Hi, I'm Marco 👋
+# Hi, I'm Marco
 
 **AI Engineer & Project Manager** based in Brussels, Belgium.
 
-I build applied AI systems, from knowledge graphs and LLM agents to geospatial ML and anomaly detection. I have 7+ years of cross-domain experience across engineering, data analytics and AI, and an Advanced MSc in AI from KU Leuven (Cum Laude).
+I build applied AI systems, from knowledge graphs and LLM agents to geospatial ML and anomaly detection. I have 8+ years of cross-domain experience across engineering, data analytics and AI, and an Advanced MSc in AI from KU Leuven.
 
 ## 🔭 What I'm working on
 
