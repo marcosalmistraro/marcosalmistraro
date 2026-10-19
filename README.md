@@ -34,7 +34,11 @@ Also: GeoPandas, SciPy, Pandas, PySpark, Palantir Foundry, DuckDB, Qdrant, Fusek
 
 ## 🎓 Certifications
 
-Azure AI Engineer (AI-102) · Azure AI Fundamentals (AI-900) · Power BI Data Analyst (PL-300) · AWS Technical Accreditation · PRINCE2 Foundation & Agile
+- Azure AI Engineer (AI-102)
+- Azure AI Fundamentals (AI-900)
+- Power BI Data Analyst (PL-300)
+- AWS Technical Accreditation
+- PRINCE2 Foundation & Agile
 
 ## 🌍 Languages
 
